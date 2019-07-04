@@ -1,1 +1,1 @@
-# quantum-chess
+# Real Quantum Chess
